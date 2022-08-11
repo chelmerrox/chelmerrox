@@ -8,12 +8,12 @@
 - 👋 I am Losalini Rokocakau.
 - 🌴 I'm from Suva, Fiji. 
 - 💻 A self-taught developer.
-- 👩🏽‍💻 Currently a student at ![](https://img.shields.io/badge/Microverse-blueviolet) & on the journey to be a Remote Full-Stack Developer.
+- 👩🏽‍💻 Currently a student at ![](https://img.shields.io/badge/Microverse-blueviolet) & on my learning journey to becoming a Remote Full-Stack Developer.
 - 👩🏽‍🎓 I've attained a Bachelor of Science degree from the University of the South Pacific.
 - 🖊 I occasionally write Technical articles related to Web Development.
 - 📙 I have published my articles on <a href="https://medium.com/">Medium</a> & <a href="https://hackernoon.com/">HackerNoon</a>.
 - 🤝 Open to collaborations, open source projects & new opportunities!
-- 🔍 Looking for fully remote positions as a Full-Time Full-Stack/Front-End/Back-End Developer & Part-time Technical Writer.
+- 🔍 Looking for fully remote positions as a Full-Time Full-Stack/Front-End/Back-End Developer & Part-Time Technical Writer.
 - 🤸🏽‍♀️ **Brief summary of my hobbies:** reading, binge-watch TV shows & movies, playing the piano, baking, photography, solving sudoku puzzles, playing squash & so many more!
 
 ## Tech Stack & Skills:
