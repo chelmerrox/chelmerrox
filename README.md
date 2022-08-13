@@ -20,7 +20,7 @@
   <code><img height="35" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"/></code>
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="40"> 
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="40">
-  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" width="70">
+  <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg" width="90">
   <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width ="50"> 
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40">
   <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -43,7 +43,9 @@
 ## Publications:
 
 <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" width="40" alt="medium">
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" id="IconChangeColor" height="40" width="40"><path d="M5.701 0v6.223H8.85V4.654h1.576v7.842H12V4.654h1.574v1.569h3.15V0zm11.024 6.223v3.136h1.574V6.223zm1.574 3.136v4.705h1.576v-1.568h1.574v-1.568h-1.574V9.359zm0 4.705h-1.574v3.137h1.574zm-1.574 3.137h-3.15v1.569H8.85V17.2H5.7V24h11.024zm-11.024 0v-3.137H4.125v3.137zm-1.576-3.137V9.36H2.551v4.705zm0-4.705h1.576V6.223H4.125Z" id="mainIconPathAttribute" fill="#000000"></path></svg>
+<code>
+  <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" id="IconChangeColor" height="40" width="40"><path d="M5.701 0v6.223H8.85V4.654h1.576v7.842H12V4.654h1.574v1.569h3.15V0zm11.024 6.223v3.136h1.574V6.223zm1.574 3.136v4.705h1.576v-1.568h1.574v-1.568h-1.574V9.359zm0 4.705h-1.574v3.137h1.574zm-1.574 3.137h-3.15v1.569H8.85V17.2H5.7V24h11.024zm-11.024 0v-3.137H4.125v3.137zm-1.576-3.137V9.36H2.551v4.705zm0-4.705h1.576V6.223H4.125Z" id="mainIconPathAttribute" fill="#000000"></path></svg>
+</code>
 
 ## Connect with me!
 
