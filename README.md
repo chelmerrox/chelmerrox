@@ -12,9 +12,9 @@
 - 👩🏽‍🎓 I've attained a Bachelor of Science degree from the University of the South Pacific (unrelated to Tech).
 - 🖊 I occasionally write Technical articles related to Web Development.
 - 📙 I have published my articles on <a href="https://medium.com/">Medium</a> & <a href="https://hackernoon.com/">HackerNoon</a>.
-- 🤝 Open to collaborations, contributions to open source projects & new opportunities!
-- 🔍 Looking for fully remote positions as a Full-Time Full-Stack/Front-End/Back-End Developer & Part-Time Technical Writer.
-- 🤸🏽‍♀️ **Brief summary of my hobbies:** reading, binge-watch TV shows & movies, playing the piano, baking, photography, solving sudoku puzzles, playing squash & so many more!
+- 🤝 Open to collaborations, contributions to open source projects, internships & new opportunities!
+- 🔍 Looking for <ins>fully remote positions</ins> as a <ins>Full-Time Full-Stack/Front-End/Back-End Developer</ins> &/or <ins>Part-Time Technical Writer</ins>.
+- 🤸🏽‍♀️ **<ins>Brief summary of my hobbies</ins>:** reading, binge-watch TV shows & movies, playing the piano, baking, photography, solving sudoku puzzles, playing squash & so many more!
 
 ## Tech Stack & Other Skills:
 <!--Credit to all those who created or own these icons & logos | I do not own any of them-->
