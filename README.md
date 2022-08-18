@@ -41,8 +41,8 @@
   <img width="35" height="35" src="https://downloadly.net/wp-content/uploads/2020/03/Lindo-LINGO.png" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://downloadly.net/wp-content/uploads/2020/03/Lindo-LINGO.png 256w, https://downloadly.net/wp-content/uploads/2020/03/Lindo-LINGO-150x150.png 150w, https://downloadly.net/wp-content/uploads/2020/03/Lindo-LINGO-221x221.png 221w" sizes="(max-width: 256px) 100vw, 256px"><!--LINGO-->
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chelmerrox&show_icons=true&theme=radical&line_height=33&count_private=trueshow_icons=true">
+<p style="display:flex; justify-content:center; align-items:center; column-gap: 10px;" >
+  <img src="https://github-readme-stats.vercel.app/api?username=chelmerrox&show_icons=true&theme=radical&line_height=30&count_private=trueshow_icons=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chelmerrox&hide_langs_below=.25&theme=radical&count_private=trueshow_icons=true">
 </p>
 
