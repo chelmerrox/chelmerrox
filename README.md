@@ -24,10 +24,10 @@
 <!--Credit to all those who created or own these icons & logos | I do not own any of them-->
 <p align="left"> 
   <code><img height="35" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" alt="figma"/></code>
-  <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" width="60" height="20" title="Behance" alt="behance"/>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" width="60" height="20" title="Canva" alt="canva"/>
-  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" width="60" height="20" title="Blender" alt="blender"/>
-  <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" width="60" height="20" title="Inkscape" alt="inkscape"/>
+  <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" width="80" height="30" title="Behance" alt="behance"/>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" width="80" height="30" title="Canva" alt="canva"/>
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" width="80" height="30" title="Blender" alt="blender"/>
+  <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" width="80" height="30" title="Inkscape" alt="inkscape"/>
   <img src="https://s3.amazonaws.com/x.photoscape.org/img/201801/photoscape_logo_color_2x.png" width="35" height="30" title="Photoscape & Photoscape X" alt="photoscape"/>
   <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" width="40" title="GIMP" alt="GIMP">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="40" title="VSCode" alt="VSCode"> 
@@ -52,7 +52,7 @@
   <img width="35" height="35" src="https://downloadly.net/wp-content/uploads/2020/03/Lindo-LINGO.png" class="attachment-medium size-medium wp-post-image" title="LINGO" alt="LINGO" srcset="https://downloadly.net/wp-content/uploads/2020/03/Lindo-LINGO.png 256w, https://downloadly.net/wp-content/uploads/2020/03/Lindo-LINGO-150x150.png 150w, https://downloadly.net/wp-content/uploads/2020/03/Lindo-LINGO-221x221.png 221w" sizes="(max-width: 256px) 100vw, 256px"><!--LINGO-->
 </p>
 
-## Desktop environment
+## Desktop Environment
 
 <p align="left">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" width="90" height="30" alt="Slack"/>
