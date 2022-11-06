@@ -74,12 +74,18 @@
 
 ## Publications:
 
-<p align="left">
-  <!-- <img src="https://img.shields.io/badge/HN-HackerNoon-brightgreen" width="100" height="27"/> -->
-  <img src="https://img.shields.io/badge/HackerNoon-00FE00?style=for-the-badge&logo=Hacker Noon&logoColor=black" width="100" height="27" />
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+<div style="display: flex; justify-content: flex-start; column-gap: 10px;">
+  <a href="https://hackernoon.com/u/chelmerrox">
+    <img src="https://img.shields.io/badge/HackerNoon-00FE00?style=for-the-badge&logo=Hacker Noon&logoColor=black&textColor=black" width="100" height="27" />
+  </a>
+  <a href="https://medium.com/@losalini.rokocakau">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="https://losalini-rokocakau.hashnode.dev/">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
+  </a>
   <!-- <img src="https://img.shields.io/badge/IH-Indie%20Hackers%20-orange"/> -->
-</p>
+</div>
 
 ## Connect with me!
 
