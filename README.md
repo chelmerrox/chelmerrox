@@ -68,25 +68,25 @@
 ## My Stats
 
 <p style="display:flex; justify-content:center; align-items:center; column-gap: 10px;" >
-  <img src="https://github-readme-stats.vercel.app/api?username=chelmerrox&show_icons=true&theme=radical&line_height=30&count_private=trueshow_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chelmerrox&hide_langs_below=.25&theme=radical&count_private=trueshow_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=chelmerrox&show_icons=true&theme=radical&line_height=30&count_private=true&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chelmerrox&theme=radical&count_private=true&show_icons=true&layout=compact">
 </p>
 
 ## Publications:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HN-HackerNoon-brightgreen" width="100" height="27"/>
+  <!-- <img src="https://img.shields.io/badge/HN-HackerNoon-brightgreen" width="100" height="27"/> -->
+  <img src="https://img.shields.io/badge/HackerNoon-00FE00?style=for-the-badge&logo=Hacker Noon&logoColor=black" width="100" height="27" />
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   <!-- <img src="https://img.shields.io/badge/IH-Indie%20Hackers%20-orange"/> -->
 </p>
 
 ## Connect with me!
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/chelmerrox)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=Github&logoColor=white)](https://github.com/chelmerrox)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/losalini-rokocakau)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:c.rokocakau@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@losalini.rokocakau/)](https://medium.com/@losalini.rokocakau/)
-[![HackerNoon Badge](https://img.shields.io/badge/HN-HackerNoon-brightgreen)](https://hackernoon.com/how-to-temporarily-resolve-cors-error-in-the-console)
-<!-- [![Twitter Badge](https://img.shields.io/badge/-@chelmerrox-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_chelmerrox_)](https://twitter.com/_chelmerrox_) -->
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_chelmerrox_)](https://twitter.com/_chelmerrox_)
 
 ### ⭐ From [Losalini Rokocakau](https://github.com/chelmerrox).
