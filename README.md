@@ -13,7 +13,7 @@
 - 👩🏽‍💻 Currently a student at ![](https://img.shields.io/badge/Microverse-blueviolet) & on my learning journey to become a Remote Full-Stack Developer.
 - 👩🏽‍🎓 I've attained a Bachelor of Science degree from the University of the South Pacific (unrelated to Tech).
 - 🖊 I occasionally write Technical articles related to Web Development.
-- 📙 I have published my articles on <a href="https://medium.com/">Medium</a> & <a href="https://hackernoon.com/">HackerNoon</a>.
+- 📙 I have published my articles on <a href="https://medium.com/">Medium</a>, <a href="https://hackernoon.com/">HackerNoon</a> etc.
 - 🤝 Open to collaborations, contributions to open source projects, internships & new opportunities!
 - 🔍 Looking for <ins>fully remote positions</ins> as a <ins>Full-Time Full-Stack/Front-End/Back-End Developer</ins> &/or <ins>Part-Time Technical Writer</ins>.
 - 🤸🏽‍♀️ **<ins>Brief summary of my hobbies</ins>:** reading, binge-watch TV shows & movies, playing the piano, baking, photography, solving sudoku puzzles, playing squash & so many more!
@@ -72,7 +72,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chelmerrox&theme=radical&count_private=true&show_icons=true&layout=compact">
 </p>
 
-## Publications:
+## Publications & Blogs:
 
 <div style="display: flex; justify-content: flex-start; column-gap: 10px;">
   <a href="https://hackernoon.com/u/chelmerrox">
@@ -84,12 +84,14 @@
   <a href="https://losalini-rokocakau.hashnode.dev/">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
   </a>
+  <a href="https://dev.to/chelmerrox">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="30.5" />
+  </a>
   <!-- <img src="https://img.shields.io/badge/IH-Indie%20Hackers%20-orange"/> -->
 </div>
 
 ## Connect with me!
 
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=Github&logoColor=white)](https://github.com/chelmerrox)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/losalini-rokocakau)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:c.rokocakau@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@losalini.rokocakau/)](https://medium.com/@losalini.rokocakau/)
