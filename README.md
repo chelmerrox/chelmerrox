@@ -12,11 +12,11 @@
 - 💻 A self-taught developer.
 - 👩🏽‍💻 Currently a student at ![](https://img.shields.io/badge/Microverse-blueviolet) & on my learning journey to become a Remote Full-Stack Developer.
 - 👩🏽‍🎓 I've attained a Bachelor of Science degree from the University of the South Pacific (unrelated to Tech).
-- 🖊 I occasionally write Technical articles related to Web Development.
+- 🖊 I occasionally write Technical articles related to Web Development & Tech.
 - 📙 I have published my articles on <a href="https://medium.com/">Medium</a>, <a href="https://hackernoon.com/">HackerNoon</a> etc.
 - 🤝 Open to collaborations, contributions to open source projects, internships & new opportunities!
 - 🔍 Looking for <ins>fully remote positions</ins> as a <ins>Full-Time Full-Stack/Front-End/Back-End Developer</ins> &/or <ins>Part-Time Technical Writer</ins>.
-- 🤸🏽‍♀️ **<ins>Brief summary of my hobbies</ins>:** reading, binge-watch TV shows & movies, playing the piano, baking, photography, solving sudoku puzzles, playing squash & so many more!
+- 🤸🏽‍♀️ **<ins>Brief summary of my hobbies</ins>:** reading, binge-watch TV shows & movies, playing the piano, baking, nature macrophotography, solving sudoku puzzles & so much more!
 
 ## Tech Stack & Other Skills:
 <!--Credit to all those who created or own these icons & logos | I do not own any of them-->
@@ -29,6 +29,7 @@
   <img src="https://s3.amazonaws.com/x.photoscape.org/img/201801/photoscape_logo_color_2x.png" width="35" height="30" title="Photoscape & Photoscape X" alt="photoscape"/>
   <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" width="40" title="GIMP" alt="GIMP">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="40" title="VSCode" alt="VSCode"> 
+  <!--<img height="36" src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" alt="Visual Studio"/>-->
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="40" title="GitHub" alt="GitHub">
   <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg" width="90" title="Bitbucket" alt="Bitbucket">
   <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width ="50" title="Git" alt="Git version control"> 
@@ -38,6 +39,9 @@
   <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" title="Sass" alt="Sass"></code>
   <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap"></code>
   <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="JavaScript" alt="JavaScript"></code>
+  <code><img height="35" src="https://skillicons.dev/icons?i=jest" title="Jest" alt="Jest"/></code>
+  <code>
+    <img height="45" src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" title="Mocha" alt="Mocha"></code>
   <!-- <code><img height="35" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" title="Node.js" alt="Node.js"></code> -->
   <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" title="Webpack" alt="Webpack"></code>
   <!-- <code><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="60" height="20" title="React" alt="React" /></code> -->
@@ -46,6 +50,10 @@
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" title="Ruby" alt="Ruby"></code>
   <!-- <code><img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" width="65" height="20" title="Ruby on Rails" alt="Ruby on Rails" /></code> -->
   <!-- <code><img srcset="https://img.icons8.com/color/452/c-plus-plus-logo.png 2x" title="C++" alt="C++" loading="lazy" width="40" height="40"></code> -->
+  <!--<code><img height="35" src="https://skillicons.dev/icons?i=cs" title="C#" alt="C#"/></code>-->
+  <!--<code><img height="35" src="https://skillicons.dev/icons?i=dotnet" title="ASP.NET Core" alt="ASP.NET Core"/></code>-->
+  <!--<code><img height="35" src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL"/></code>-->
+  <!--<code><img height="35" src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL"/></code>-->
   <img src="https://www.wolfram.com/common/framework/img/spikey.en.png" width="40" height="40" title="Wolfram Mathematica" alt="Wolfram Mathematica">
   <img width="35" height="35" src="https://downloadly.net/wp-content/uploads/2020/03/Lindo-LINGO.png" class="attachment-medium size-medium wp-post-image" title="LINGO" alt="LINGO" srcset="https://downloadly.net/wp-content/uploads/2020/03/Lindo-LINGO.png 256w, https://downloadly.net/wp-content/uploads/2020/03/Lindo-LINGO-150x150.png 150w, https://downloadly.net/wp-content/uploads/2020/03/Lindo-LINGO-221x221.png 221w" sizes="(max-width: 256px) 100vw, 256px"><!--LINGO-->
 </p>
