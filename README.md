@@ -20,7 +20,7 @@
 
 ## Tech Stack & Other Skills:
 <!--Credit to all those who created or own these icons & logos | I do not own any of them-->
-<p align="left"> 
+<p align="center"> 
   <code><img height="35" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" alt="figma"/></code>
   <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" width="80" height="30" title="Behance" alt="behance"/>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" width="80" height="30" title="Canva" alt="canva"/>
@@ -60,7 +60,7 @@
 
 ## Desktop Environment
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" width="90" height="30" alt="Slack"/>
   <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" width="90" height="30" alt="Zoom"/>
   <!-- <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" width="90" height="30" 
@@ -95,7 +95,16 @@
   <a href="https://dev.to/chelmerrox">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="30.5" />
   </a>
-  <!-- <img src="https://img.shields.io/badge/IH-Indie%20Hackers%20-orange"/> -->
+  <!--
+    <a href="https://www.freecodecamp.org/news/author/losalini-rokocakau">
+      <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" height="31"  />
+    </a>
+  -->
+  <!--
+    <a href=""> 
+      <img src="https://img.shields.io/badge/IH-Indie%20Hackers%20-orange"/> 
+    </a>
+  -->
 </div>
 
 ## Connect with me!
@@ -105,4 +114,4 @@
 [![Medium Badge](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@losalini.rokocakau/)](https://medium.com/@losalini.rokocakau/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_chelmerrox_)](https://twitter.com/_chelmerrox_)
 
-### ⭐ From [Losalini Rokocakau](https://github.com/chelmerrox).
+### ⭐ for [Losalini Rokocakau](https://github.com/chelmerrox).
