@@ -7,15 +7,14 @@
 
 ## About Me:
 - 👋 I am Losalini Rokocakau.
-- :fiji: I'm from Suva, Fiji. 
-- 🌺 No, I'm not from the Carribean. I'm a Pacific Islander.
+- :fiji: I'm from Fiji. 
+- 🌺 No, I'm not from the Caribbean. I'm a Pacific Islander.
 - 💻 A self-taught developer.
-- 👩🏽‍💻 Currently a student at ![](https://img.shields.io/badge/Microverse-blueviolet) & on my learning journey to become a Remote Full-Stack Developer.
-- 👩🏽‍🎓 I've attained a Bachelor of Science degree from the University of the South Pacific (unrelated to Tech).
-- 🖊 I occasionally write Technical articles related to Web Development & Tech.
-- 📙 I have published my articles on <a href="https://medium.com/">Medium</a>, <a href="https://hackernoon.com/">HackerNoon</a> etc.
+- 👩🏽‍💻 A fellow Micronaut ![](https://img.shields.io/badge/Microverse-blueviolet).
+- 👩🏽‍🎓 Bachelor of Science grad from the University of the South Pacific (unrelated to Tech).
+- 🖊 I occasionally write Technical articles related to all things Tech - it's more developer-focused.
+- 📙 Check out my articles on a few of the publications I contribute to: <a href="https://medium.com/">Medium</a>, <a href="https://hackernoon.com/">HackerNoon</a> etc.
 - 🤝 Open to collaborations, contributions to open source projects, internships & new opportunities!
-- 🔍 Looking for <ins>fully remote positions</ins> as a <ins>Full-Time Full-Stack/Front-End/Back-End Developer</ins> &/or <ins>Part-Time Technical Writer</ins>.
 - 🤸🏽‍♀️ **<ins>Brief summary of my hobbies</ins>:** reading, binge-watch TV shows & movies, playing the piano, baking, nature macrophotography, solving sudoku puzzles & so much more!
 
 ## Tech Stack & Other Skills:
@@ -51,7 +50,7 @@
   <!-- <code><img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" width="65" height="20" title="Ruby on Rails" alt="Ruby on Rails" /></code> -->
   <!-- <code><img srcset="https://img.icons8.com/color/452/c-plus-plus-logo.png 2x" title="C++" alt="C++" loading="lazy" width="40" height="40"></code> -->
   <!--<code><img height="35" src="https://skillicons.dev/icons?i=cs" title="C#" alt="C#"/></code>-->
-  <!--<code><img height="35" src="https://skillicons.dev/icons?i=dotnet" title="ASP.NET Core" alt="ASP.NET Core"/></code>-->
+  <code><img height="35" src="https://skillicons.dev/icons?i=dotnet" title="ASP.NET Core" alt="ASP.NET Core"/></code>
   <!--<code><img height="35" src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL"/></code>-->
   <!--<code><img height="35" src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL"/></code>-->
   <img src="https://www.wolfram.com/common/framework/img/spikey.en.png" width="40" height="40" title="Wolfram Mathematica" alt="Wolfram Mathematica">
