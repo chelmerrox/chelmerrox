@@ -10,7 +10,7 @@
 - :fiji: I'm from Fiji. 
 - 🌺 No, I'm not from the Caribbean. I'm a Pacific Islander.
 - 💻 A self-taught developer.
-- 👩🏽‍💻 A fellow Micronaut ![](https://img.shields.io/badge/Microverse-blueviolet).
+- 👩🏽‍💻 A fellow Micronaut • ![](https://img.shields.io/badge/Microverse-blueviolet).
 - 👩🏽‍🎓 Bachelor of Science grad from the University of the South Pacific (unrelated to Tech).
 - 🖊 I occasionally write Technical articles related to all things Tech - it's more developer-focused.
 - 📙 Check out my articles on a few of the publications I contribute to: <a href="https://medium.com/">Medium</a>, <a href="https://hackernoon.com/">HackerNoon</a> etc.
