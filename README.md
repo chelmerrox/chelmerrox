@@ -76,7 +76,7 @@
 
 <p style="display:flex; justify-content:center; align-items:center; column-gap: 10px;" >
   <img src="https://github-readme-stats.vercel.app/api?username=chelmerrox&show_icons=true&theme=radical&line_height=30&count_private=true&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chelmerrox&theme=radical&count_private=true&show_icons=true&layout=compact">
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chelmerrox&theme=radical&count_private=true&show_icons=true&layout=compact">-->
 </p>
 
 ## Publications & Blogs:
