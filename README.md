@@ -6,16 +6,16 @@
 <img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="250" height="250"/>
 
 ## About Me:
-- 👋 I am Losalini Rokocakau.
+<!-- - 👋 I am Losalini Rokocakau.-->
 - :fiji: I'm from Fiji. 
 - 🌺 No, I'm not from the Caribbean. I'm a Pacific Islander.
 - 💻 A self-taught developer.
 - 👩🏽‍💻 A fellow Micronaut • ![](https://img.shields.io/badge/Microverse-blueviolet).
-- 👩🏽‍🎓 Bachelor of Science grad from the University of the South Pacific (unrelated to Tech).
+- 👩🏽‍🎓 BSc grad from the USP (unrelated to Tech).
 - 🖊 I occasionally write Technical articles related to all things Tech - it's more developer-focused.
 - 📙 Check out my articles on a few of the publications I contribute to: <a href="https://medium.com/">Medium</a>, <a href="https://hackernoon.com/">HackerNoon</a> etc.
-- 🤝 Open to collaborations, contributions to open source projects, internships & new opportunities!
-- 🤸🏽‍♀️ **<ins>Brief summary of my hobbies</ins>:** reading, binge-watch TV shows & movies, playing the piano, baking, nature macrophotography, solving sudoku puzzles & so much more!
+- 🤝 Open to collaborations, contributions to open source projects & new opportunities!
+<!-- - 🤸🏽‍♀️ **<ins>Brief summary of my hobbies</ins>:** reading, binge-watch TV shows & movies, playing the piano, baking, nature macrophotography, solving sudoku puzzles & so much more!-->
 
 ## Tech Stack & Other Skills:
 <!--Credit to all those who created or own these icons & logos | I do not own any of them-->
