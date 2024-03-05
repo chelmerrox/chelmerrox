@@ -1,13 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Futura&color=E815CF&size=35&width=500&lines=Bula!+🌺+;I'm+Losalini.;Nice+to+meet+you!+🙂+; )](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Futura&color=E815CF&size=35&width=500&lines=Bula!+🌺+;I'm+Losalini.;Nice+to+meet+you!+🙂+;)](https://git.io/typing-svg)
 
 ![Profile View Count](https://komarev.com/ghpvc/?username=chelmerrox&color=orange&style=for-the-badge)
 
-<!-- <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" /> -->
 <img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="250" height="250"/>
 
 ## About Me:
-<!-- - 👋 I am Losalini Rokocakau.-->
-- :fiji: I'm from Fiji. 
+
+- :fiji: I'm from Fiji.
 - 🌺 No, I'm not from the Caribbean. I'm a Pacific Islander.
 - 💻 A self-taught developer.
 - 👩🏽‍💻 A fellow Micronaut • ![](https://img.shields.io/badge/Microverse-blueviolet).
@@ -15,11 +14,11 @@
 - 🖊 I occasionally write Technical articles related to all things Tech - it's more developer-focused.
 - 📙 Check out my articles on a few of the publications I contribute to: <a href="https://medium.com/">Medium</a>, <a href="https://hackernoon.com/">HackerNoon</a> etc.
 - 🤝 Open to collaborations, contributions to open source projects & new opportunities!
-<!-- - 🤸🏽‍♀️ **<ins>Brief summary of my hobbies</ins>:** reading, binge-watch TV shows & movies, playing the piano, baking, nature macrophotography, solving sudoku puzzles & so much more!-->
 
 ## Tech Stack & Other Skills:
+
 <!--Credit to all those who created or own these icons & logos | I do not own any of them-->
-<p align="center"> 
+<p> 
   <code><img height="35" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" alt="figma"/></code>
   <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" width="80" height="30" title="Behance" alt="behance"/>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" width="80" height="30" title="Canva" alt="canva"/>
@@ -27,35 +26,33 @@
   <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" width="80" height="30" title="Inkscape" alt="inkscape"/>
   <img src="https://s3.amazonaws.com/x.photoscape.org/img/201801/photoscape_logo_color_2x.png" width="35" height="30" title="Photoscape & Photoscape X" alt="photoscape"/>
   <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" width="40" title="GIMP" alt="GIMP">
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="40" title="VSCode" alt="VSCode"> 
-  <!--<img height="36" src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" alt="Visual Studio"/>-->
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="40" title="GitHub" alt="GitHub">
-  <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg" width="90" title="Bitbucket" alt="Bitbucket">
-  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width ="50" title="Git" alt="Git version control"> 
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40" title="Linux" alt="Linux">
-  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML" alt="HTML"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS" alt="CSS"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" title="Sass" alt="Sass"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="JavaScript" alt="JavaScript"></code>
-  <code><img height="35" src="https://skillicons.dev/icons?i=jest" title="Jest" alt="Jest"/></code>
-  <code>
-    <img height="45" src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" title="Mocha" alt="Mocha"></code>
-  <!-- <code><img height="35" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" title="Node.js" alt="Node.js"></code> -->
-  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" title="Webpack" alt="Webpack"></code>
-  <!-- <code><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="60" height="20" title="React" alt="React" /></code> -->
-  <!-- <code><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" width="60" height="20" title="Redux" alt="Redux" /></code> -->
-  <!-- <code><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="60" height="20" title="MySQL" alt="MySQL" /></code> -->
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" title="Ruby" alt="Ruby"></code>
-  <!-- <code><img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" width="65" height="20" title="Ruby on Rails" alt="Ruby on Rails" /></code> -->
-  <!-- <code><img srcset="https://img.icons8.com/color/452/c-plus-plus-logo.png 2x" title="C++" alt="C++" loading="lazy" width="40" height="40"></code> -->
-  <!--<code><img height="35" src="https://skillicons.dev/icons?i=cs" title="C#" alt="C#"/></code>-->
-  <code><img height="35" src="https://skillicons.dev/icons?i=dotnet" title="ASP.NET Core" alt="ASP.NET Core"/></code>
-  <!--<code><img height="35" src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL"/></code>-->
-  <!--<code><img height="35" src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL"/></code>-->
+</p>
+
+<p>
   <img src="https://www.wolfram.com/common/framework/img/spikey.en.png" width="40" height="40" title="Wolfram Mathematica" alt="Wolfram Mathematica">
   <img width="35" height="35" src="https://downloadly.net/wp-content/uploads/2020/03/Lindo-LINGO.png" class="attachment-medium size-medium wp-post-image" title="LINGO" alt="LINGO" srcset="https://downloadly.net/wp-content/uploads/2020/03/Lindo-LINGO.png 256w, https://downloadly.net/wp-content/uploads/2020/03/Lindo-LINGO-150x150.png 150w, https://downloadly.net/wp-content/uploads/2020/03/Lindo-LINGO-221x221.png 221w" sizes="(max-width: 256px) 100vw, 256px"><!--LINGO-->
+  <code>
+    <img height="40" src="https://cldup.com/xFVFxOioAU.svg" alt="Mocha Testing framework" title="Mocha"/>
+  </code>
+  <!-- Commented out some of my skills
+  <code>
+    <img height="40" src="https://skillicons.dev/icons?i=sql" title="SQL" alt="SQL"/>
+  </code>
+  <code>
+    <svg style="width:40px;height:40px" title="GDevelop" viewBox="0 0 165 132" fill="none"><path d="M87.0518 95.524C74.7138 95.524 62.8358 92.188 52.3428 84.924C45.0288 79.863 36.5638 68.435 36.5638 49.061C36.5638 13.118 54.9238 0 91.8198 0H158.246L164.642 20.472H96.8818C72.5298 20.472 58.0498 22.371 58.0498 49.061C58.0498 57.877 60.5358 64.151 65.6528 68.239C74.3008 75.149 91.1098 75.443 101.381 74.453C101.381 74.453 105.595 60.902 106.289 58.702C107.102 56.124 106.746 55.509 104.21 55.509C100.547 55.509 93.9618 55.509 86.9728 55.509C82.0748 55.509 77.2628 53.044 77.2628 47.123C77.2628 41.405 81.7398 38.086 87.8768 38.086C98.5028 38.086 120.388 38.086 124.484 38.086C129.854 38.086 135.334 38.856 132.538 47.357L117.731 92.263C117.732 92.264 105.635 95.524 87.0518 95.524Z" fill="url(#paint0_linear_1_17)"></path><path d="M128.522 103.147C121.059 108.372 110.005 111.26 91.2478 111.26C58.9188 111.26 35.2578 99.643 25.6108 77.122C21.0498 66.477 21.4888 54.412 21.4888 38.095H0.00384383C0.00384383 55.301 -0.292156 68.792 4.31084 81.218C16.3808 113.814 47.4628 131.327 89.2168 131.327C129.633 131.327 146.381 119.802 157.299 103.147H128.522Z" fill="url(#paint1_linear_1_17)"></path><defs><linearGradient id="paint0_linear_1_17" x1="53.7006" y1="16.0797" x2="53.7006" y2="60.3347" gradientUnits="userSpaceOnUse"><stop stop-color="white"></stop><stop offset="1" stop-color="white"></stop></linearGradient><linearGradient id="paint1_linear_1_17" x1="46.036" y1="16.0797" x2="46.036" y2="60.3347" gradientUnits="userSpaceOnUse"><stop stop-color="white"></stop><stop offset="1" stop-color="white"></stop></linearGradient></defs></svg>
+  </code>
+  -->
 </p>
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,git,github,bitbucket,linux,postman)](https://skillicons.dev)
+<br />
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass)](https://skillicons.dev)
+<br />
+[![My Skills](https://skillicons.dev/icons?i=javascript,jest,webpack,jquery,vite,ruby,cs,dotnet)](https://skillicons.dev)
+
+<!--Commented out some of my skills: [![My Skills](https://skillicons.dev/icons?i=react,redux,rails,postgres,py,cpp,azure)](https://skillicons.dev)-->
+
+<!--Icons to find and also add/Commented out some of my skills: ESLint, Webhint Linter, Stylelint, TypeScript, Next.js, Rubocop -->
 
 ## Desktop Environment
 
@@ -112,5 +109,3 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:c.rokocakau@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@losalini.rokocakau/)](https://medium.com/@losalini.rokocakau/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_chelmerrox_)](https://twitter.com/_chelmerrox_)
-
-### ⭐ for [Losalini Rokocakau](https://github.com/chelmerrox).
