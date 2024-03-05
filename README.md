@@ -31,9 +31,7 @@
 <p>
   <img src="https://www.wolfram.com/common/framework/img/spikey.en.png" width="40" height="40" title="Wolfram Mathematica" alt="Wolfram Mathematica">
   <img width="35" height="35" src="https://downloadly.net/wp-content/uploads/2020/03/Lindo-LINGO.png" class="attachment-medium size-medium wp-post-image" title="LINGO" alt="LINGO" srcset="https://downloadly.net/wp-content/uploads/2020/03/Lindo-LINGO.png 256w, https://downloadly.net/wp-content/uploads/2020/03/Lindo-LINGO-150x150.png 150w, https://downloadly.net/wp-content/uploads/2020/03/Lindo-LINGO-221x221.png 221w" sizes="(max-width: 256px) 100vw, 256px"><!--LINGO-->
-  <code>
-    <img height="40" src="https://cldup.com/xFVFxOioAU.svg" alt="Mocha Testing framework" title="Mocha"/>
-  </code>
+  <img height="40" src="https://cldup.com/xFVFxOioAU.svg" alt="Mocha Testing framework" title="Mocha"/>
   <!-- Commented out some of my skills
   <code>
     <img height="40" src="https://skillicons.dev/icons?i=sql" title="SQL" alt="SQL"/>
