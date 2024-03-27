@@ -48,7 +48,7 @@
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 
 <!--Commented out some of my skills:
-  [![My Skills](https://skillicons.dev/icons?i=tailwind,react,ts,redux,nextjs,rails,postgres,py,cpp,unity,azure,docker,obsidian)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=tailwind,react,ts,redux,nextjs,rails,postgres,py,cpp,unity,azure,docker)](https://skillicons.dev)
 -->
 
 <!--Icons to find and also add/Commented out some of my skills: Webhint Linter, Stylelint, Rubocop -->
@@ -64,18 +64,21 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" width="90" height="30" 
   alt="Ubuntu" />
   <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white0" width="100" height="30" alt="Virtual Box" />
+  <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" width="100" height="30" alt="Virtual Box" />
   <!--
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" width="100" height="30" alt="Notion" />
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" width="100" height="30" alt="Discord" />
   -->
 </p>
 
-## My Stats
+<!--
+  ## My Stats
 
-<p style="display:flex; justify-content:center; align-items:center; column-gap: 10px;" >
-  <img src="https://github-readme-stats.vercel.app/api?username=chelmerrox&show_icons=true&theme=radical&line_height=30&count_private=true&show_icons=true">
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chelmerrox&theme=radical&count_private=true&show_icons=true&layout=compact">-->
-</p>
+  <p style="display:flex; justify-content:center; align-items:center; column-gap: 10px;" >
+    <img src="https://github-readme-stats.vercel.app/api?username=chelmerrox&show_icons=true&theme=radical&line_height=30&count_private=true&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chelmerrox&theme=radical&count_private=true&show_icons=true&layout=compact">
+  </p>
+-->
 
 ## Publications • Blogs:
 
@@ -86,7 +89,7 @@
   <a href="https://hackernoon.com/u/chelmerrox">
     <img src="https://img.shields.io/badge/HackerNoon-00FE00?style=for-the-badge&logo=HackerNoon&logoColor=black&textColor=black" width="100" height="27" />
   </a>
-  <span>•</span>
+  <span>|</span>
   <a href="https://medium.com/@losalini.rokocakau">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
