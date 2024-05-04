@@ -99,6 +99,9 @@
   <a href="https://dev.to/chelmerrox">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="30.5" />
   </a>
+  <a href="https://dev.to/chelmerrox">
+    <img src="https://img.shields.io/badge/Coder%20Legion-orange" height="30.5" />
+  </a>
   <!--
     <a href=""> 
       <img src="https://img.shields.io/badge/IH-Indie%20Hackers%20-orange"/> 
