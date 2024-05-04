@@ -89,7 +89,6 @@
   <a href="https://hackernoon.com/u/chelmerrox">
     <img src="https://img.shields.io/badge/HackerNoon-00FE00?style=for-the-badge&logo=HackerNoon&logoColor=black&textColor=black" width="100" height="27" />
   </a>
-  <span>|</span>
   <a href="https://medium.com/@losalini.rokocakau">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
@@ -99,7 +98,7 @@
   <a href="https://dev.to/chelmerrox">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="30.5" />
   </a>
-  <a href="https://dev.to/chelmerrox">
+  <a href="https://coderlegion.com/user/Losalini+Rokocakau">
     <img src="https://img.shields.io/badge/Coder%20Legion-orange" height="30.5" />
   </a>
   <!--
