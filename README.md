@@ -10,7 +10,7 @@
 - 🌺 No, I'm not from the Caribbean. I'm a Pacific Islander.
 - 💻 A self-taught developer.
 - 👩🏽‍💻 A fellow Micronaut • ![](https://img.shields.io/badge/Microverse-blueviolet).
-- 👩🏽‍🎓 BSc grad from the USP (unrelated to Tech).
+- 👩🏽‍🎓 BSc graduate from the USP (slightly unrelated to Tech).
 - 🖊 I occasionally write Technical articles related to all things Tech - it's more developer-focused.
 - 📙 Check out my articles on a few of the publications I contribute to: <a href="https://medium.com/">Medium</a>, <a href="https://hackernoon.com/">HackerNoon</a> etc.
 - 🤝 Open to collaborations, contributions to open source projects & new opportunities!
